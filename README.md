@@ -60,7 +60,7 @@ These insights empower stakeholders with **key business metrics** to support **s
 ---
 
 ## 📜 License
-This project is licensed under the terms of the **MIT License**.  
+This project is licensed under the terms of the [MIT License](https://opensource.org/license/mit).  
 
 You are free to **use, modify, and share** this project with proper attribution.  
 
